@@ -1,0 +1,34 @@
+{
+    "Jobs": [
+        {
+            "id": 1,
+            "title": "React developer",
+            "salary": 20000,
+            "location": "Bangalore"
+        },
+        {
+            "id": 2,
+            "title": "Php developer",
+            "salary": 30000,
+            "location": "Hyderabad"
+        },
+        {
+            "id": 3,
+            "title": "Angular developer",
+            "salary": 40000,
+            "location": "Mumbai"
+        },
+        {
+            "id": 4,
+            "title": "python developer",
+            "salary": 50000,
+            "location": "Chennai"
+        },
+        {
+            "id": 5,
+            "title": "AI developer",
+            "salary": 70000,
+            "location": "Pune"
+        }
+    ]
+}
